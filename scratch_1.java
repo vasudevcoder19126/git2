@@ -2,9 +2,6 @@ import java.util.Scanner;
 
 class Scratch {
     public static void main(String[] args) {
-        System.out.println("i am best");
-        System.out.println("jai ho");
-
         Scanner scr= new Scanner(System.in);
         int n=scr.nextInt();
         int sp=1;
