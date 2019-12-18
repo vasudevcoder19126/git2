@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 class Scratch {
     public static void main(String[] args) {
+    	System.out.print("i am best");
         Scanner scr= new Scanner(System.in);
         int n=scr.nextInt();
         int sp=1;
